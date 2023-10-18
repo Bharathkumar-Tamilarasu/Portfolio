@@ -1,4 +1,4 @@
-# [GOOGLE PLAYSTORE EDA](https://github.com/Bharathkumar-Tamilarasu/Exploratory-Data-Analysis-using-Python)
+# [GOOGLE PLAYSTORE EDA]([https://github.com/Bharathkumar-Tamilarasu/Exploratory-Data-Analysis-using-Python](https://github.com/Bharathkumar-Tamilarasu/Python-Projects/blob/main/Exploratory-Data-Analysis-using-Python/Google%20Play%20Store%20Analysis.ipynb))
 
 This is a project where I analyzed a Google Play Store dataset and provided solutions to the business using Exploratory Data Analysis approach
 
